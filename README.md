@@ -23,7 +23,7 @@ https://itera-qa.azurewebsites.net/
 
 
 
-##Task1
+## Task1
 
 <img width="960" alt="Screenshot 2022-12-17 131603" src="https://user-images.githubusercontent.com/32101980/208231467-e32c37e1-5d69-46a3-88c8-b2eec6865beb.png">
 
@@ -32,7 +32,7 @@ https://itera-qa.azurewebsites.net/
 <img width="960" alt="Screenshot 2022-12-17 131740" src="https://user-images.githubusercontent.com/32101980/208231481-13d06b72-c4a3-4bb9-b8d0-0df3281bc878.png">
 
 
-##Task2
+## Task2
 
 
 <img width="960" alt="Screenshot 2022-12-17 131805" src="https://user-images.githubusercontent.com/32101980/208231538-f2b3bd8e-6b00-4356-8ad8-a7b48e3954d0.png">
@@ -40,7 +40,7 @@ https://itera-qa.azurewebsites.net/
 <img width="960" alt="Screenshot 2022-12-17 131905" src="https://user-images.githubusercontent.com/32101980/208231552-02cb67d2-af3f-4435-a814-6e9dbb650f20.png">
 
 
-##Task4,5,6
+## Task4,5,6
 <img width="960" alt="Screenshot 2022-12-17 132034" src="https://user-images.githubusercontent.com/32101980/208231606-40e334f9-cb9f-4e25-ad03-b52e9381b9e3.png">
 <img width="960" alt="Screenshot 2022-12-17 132738" src="https://user-images.githubusercontent.com/32101980/208231611-fd3ff254-649d-43d8-ac02-d7af415be528.png">
 <img width="960" alt="Screenshot 2022-12-17 132754" src="https://user-images.githubusercontent.com/32101980/208231615-1f75f005-65c6-475d-90ff-9c459f769255.png">
