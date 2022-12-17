@@ -12,7 +12,7 @@ https://www.eclipse.org/downloads/
 
 
 
-2. Maven
+2.Maven
 
 https://maven.apache.org/download.cgi
 
