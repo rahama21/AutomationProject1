@@ -21,3 +21,13 @@ https://itera-qa.azurewebsites.net/
 5. Radio button & Checkbox (xpath locator)
 6. DropDown
 
+
+
+#Task1
+
+<img width="960" alt="Screenshot 2022-12-17 131603" src="https://user-images.githubusercontent.com/32101980/208231467-e32c37e1-5d69-46a3-88c8-b2eec6865beb.png">
+
+<img width="960" alt="Screenshot 2022-12-17 131647" src="https://user-images.githubusercontent.com/32101980/208231473-30dd95d4-5726-47ce-afbf-6e2efb9e776d.png">
+
+<img width="960" alt="Screenshot 2022-12-17 131740" src="https://user-images.githubusercontent.com/32101980/208231481-13d06b72-c4a3-4bb9-b8d0-0df3281bc878.png">
+
