@@ -6,8 +6,46 @@ To be a successful automation tester, the tester should have a good understandin
 languages like Java, Python, Perl, Vb script, etc. The automation tester needs to be proficient in these programming languages
 
 # Installation
+1.Eclipse
 
 https://www.eclipse.org/downloads/
+2. Maven
+
+https://maven.apache.org/download.cgi
+
+
+
+# Dependencies
+
+1. TestNG
+<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.6.1</version>
+    <scope>test</scope>
+</dependency>
+
+2. Selenium
+
+<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.7.1</version>
+</dependency>
+
+3. Webdrivermanager
+
+<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+<dependency>
+    <groupId>io.github.bonigarcia</groupId>
+    <artifactId>webdrivermanager</artifactId>
+    <version>5.3.0</version>
+</dependency>
+
+
+
 
 # Automated site link
 
