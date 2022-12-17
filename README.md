@@ -18,31 +18,31 @@ https://maven.apache.org/download.cgi
 # Dependencies
 
 1. TestNG
-<!-- https://mvnrepository.com/artifact/org.testng/testng -->
-<dependency>
+    <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+    <dependency>
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>7.6.1</version>
     <scope>test</scope>
-</dependency>
+    </dependency>
 
 2. Selenium
 
-<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
-<dependency>
+    <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+    <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
     <version>4.7.1</version>
-</dependency>
+    </dependency>
 
 3. Webdrivermanager
 
-<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
-<dependency>
+    <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+    <dependency>
     <groupId>io.github.bonigarcia</groupId>
     <artifactId>webdrivermanager</artifactId>
     <version>5.3.0</version>
-</dependency>
+    </dependency>
 
 
 
