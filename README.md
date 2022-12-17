@@ -31,3 +31,12 @@ https://itera-qa.azurewebsites.net/
 
 <img width="960" alt="Screenshot 2022-12-17 131740" src="https://user-images.githubusercontent.com/32101980/208231481-13d06b72-c4a3-4bb9-b8d0-0df3281bc878.png">
 
+
+#Task2
+
+
+<img width="960" alt="Screenshot 2022-12-17 131805" src="https://user-images.githubusercontent.com/32101980/208231538-f2b3bd8e-6b00-4356-8ad8-a7b48e3954d0.png">
+<img width="960" alt="Screenshot 2022-12-17 131845" src="https://user-images.githubusercontent.com/32101980/208231543-cd01c324-ca8c-4951-aff0-7abfbef41214.png">
+<img width="960" alt="Screenshot 2022-12-17 131905" src="https://user-images.githubusercontent.com/32101980/208231552-02cb67d2-af3f-4435-a814-6e9dbb650f20.png">
+
+
